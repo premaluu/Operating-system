@@ -1,3 +1,6 @@
+/*
+	created by premal upadhyay
+*/
 #include<stdio.h>
 #include<conio.h>
 
